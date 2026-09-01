@@ -36,19 +36,19 @@ By the end of these 100 days, I aim to:
 
 | Days       | Topic                     | Status         |
 | ---------- | ------------------------- | -------------- |
-| Day 01–05  | DevOps Fundamentals       | 🟡 In Progress |
-| Day 06–15  | Linux                     | ⬜ Not Started  |
-| Day 16–20  | Networking                | ⬜ Not Started  |
-| Day 21–30  | Git & GitHub              | ⬜ Not Started  |
-| Day 31–40  | Docker                    | ⬜ Not Started  |
-| Day 41–50  | Azure Cloud               | ⬜ Not Started  |
-| Day 51–60  | CI/CD                     | ⬜ Not Started  |
-| Day 61–70  | Kubernetes                | ⬜ Not Started  |
-| Day 71–80  | Terraform                 | ⬜ Not Started  |
-| Day 81–85  | Ansible                   | ⬜ Not Started  |
-| Day 86–90  | Monitoring                | ⬜ Not Started  |
-| Day 91–95  | DevSecOps                 | ⬜ Not Started  |
-| Day 96–100 | End-to-End DevOps Project | ⬜ Not Started  |
+| Day 01–05  | DevOps Fundamentals       | 
+| Day 06–15  | Linux                     |  
+| Day 16–20  | Networking                | 
+| Day 21–30  | Git & GitHub              |  
+| Day 31–40  | Docker                    |  
+| Day 41–50  | Azure Cloud               | 
+| Day 51–60  | CI/CD                     | 
+| Day 61–70  | Kubernetes                |   
+| Day 71–80  | Terraform                 | 
+| Day 81–85  | Ansible                   |  
+| Day 86–90  | Monitoring                |  
+| Day 91–95  | DevSecOps                 |  
+| Day 96–100 | End-to-End DevOps Project | 
 
 ---
 
@@ -58,16 +58,16 @@ By the end of these 100 days, I aim to:
 
 * [x] [Day 01 — What is DevOps?](day01-devops-fundamentals.md)
 * [x] [Day 02 — Why Do We Need DevOps?](day02-why-devops.md)
-* [ ] Day 03 — Traditional Software Delivery vs DevOps
-* [ ] Day 04 — Understanding the DevOps Lifecycle
-* [ ] Day 05 — CI vs Continuous Delivery vs Continuous Deployment
+* [x] Day 03 — Traditional Software Delivery vs DevOps
+* [x] Day 04 — Understanding the DevOps Lifecycle
+* [x] Day 05 — CI vs Continuous Delivery vs Continuous Deployment
 
 ### Linux
 
-* [ ] Day 06 — What is Linux and Why is it Important for DevOps?
-* [ ] Day 07 — Essential Linux Commands
-* [ ] Day 08 — Understanding the Linux File System
-* [ ] Day 09 — Linux Users and Groups
+* [x] Day 06 — What is Linux and Why is it Important for DevOps?
+* [x] Day 07 — Essential Linux Commands
+* [x] Day 08 — Understanding the Linux File System
+* [x] Day 09 — Linux Users and Groups
 * [ ] Day 10 — Linux File Permissions
 * [ ] Day 11 — Linux Processes and Services
 * [ ] Day 12 — Linux Package Management
