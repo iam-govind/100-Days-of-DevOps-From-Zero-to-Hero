@@ -1,4 +1,4 @@
-ay 10/100 — Linux Processes & Services
+Day 10/100 — Linux Processes & Services
 
 Welcome to Day 10/100 of your restarted 100 Days of DevOps — From Zero to Hero journey.
 
