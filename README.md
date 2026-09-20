@@ -312,7 +312,7 @@ The final project will bring together the concepts and tools learned throughout 
 
 ## 📈 Progress
 
-**Current Progress: Day 02/100**
+**Current Progress: Day 30/100**
 
 ```text
 ██░░░░░░░░░░░░░░░░░░ 2%
