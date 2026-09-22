@@ -68,37 +68,37 @@ By the end of these 100 days, I aim to:
 * [x] Day 07 — Essential Linux Commands
 * [x] Day 08 — Understanding the Linux File System
 * [x] Day 09 — Linux Users and Groups
-* [ ] Day 10 — Linux File Permissions
-* [ ] Day 11 — Linux Processes and Services
-* [ ] Day 12 — Linux Package Management
-* [ ] Day 13 — SSH and Remote Server Access
-* [ ] Day 14 — Linux Networking Commands
-* [ ] Day 15 — Linux Troubleshooting Basics
+* [ x] Day 10 — Linux File Permissions
+* [ x] Day 11 — Linux Processes and Services
+* [x] Day 12 — Linux Package Management
+* [ x] Day 13 — SSH and Remote Server Access
+* [x ] Day 14 — Linux Networking Commands
+* [ x] Day 15 — Linux Troubleshooting Basics
 
 ### Networking
 
-* [ ] Day 16 — Networking Fundamentals
-* [ ] Day 17 — Understanding IP Addresses
-* [ ] Day 18 — Public IP vs Private IP
-* [ ] Day 19 — Ports and Protocols
-* [ ] Day 20 — DNS, HTTP and HTTPS
+* [ x] Day 16 — Networking Fundamentals
+* [ x] Day 17 — Understanding IP Addresses
+* [ x] Day 18 — Public IP vs Private IP
+* [ x] Day 19 — Ports and Protocols
+* [x ] Day 20 — DNS, HTTP and HTTPS
 
 ### Git & GitHub
 
-* [ ] Day 21 — Introduction to Git and GitHub
-* [ ] Day 22 — Git Basics: init, add, commit and status
-* [ ] Day 23 — Understanding Git Branches
-* [ ] Day 24 — Git Merge
-* [ ] Day 25 — Git Rebase
-* [ ] Day 26 — Understanding Pull Requests
-* [ ] Day 27 — Resolving Merge Conflicts
-* [ ] Day 28 — Git Tags and Releases
-* [ ] Day 29 — Git Best Practices
-* [ ] Day 30 — Build a Git-Based Workflow
+* [ x] Day 21 — Introduction to Git and GitHub
+* [ x] Day 22 — Git Basics: init, add, commit and status
+* [ xx] Day 23 — Understanding Git Branches
+* [ x] Day 24 — Git Merge
+* [ x] Day 25 — Git Rebase
+* [ x] Day 26 — Understanding Pull Requests
+* [ x] Day 27 — Resolving Merge Conflicts
+* [ x] Day 28 — Git Tags and Releases
+* [x ] Day 29 — Git Best Practices
+* [x ] Day 30 — Build a Git-Based Workflow
 
 ### Docker
 
-* [ ] Day 31 — Introduction to Containers and Docker
+* [ x] Day 31 — Introduction to Containers and Docker
 * [ ] Day 32 — Docker Images and Containers
 * [ ] Day 33 — Working with Docker Commands
 * [ ] Day 34 — Writing Your First Dockerfile
@@ -312,10 +312,9 @@ The final project will bring together the concepts and tools learned throughout 
 
 ## 📈 Progress
 
-**Current Progress: Day 30/100**
+**Current Progress: Day 32/100**
 
 ```text
-██░░░░░░░░░░░░░░░░░░ 25%
 ```
 
 ---
