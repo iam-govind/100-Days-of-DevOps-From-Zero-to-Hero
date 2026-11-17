@@ -388,9 +388,7 @@ Hide subscription IDs, tenant details, tokens, and other sensitive information b
 - Azure Bicep overview: https://learn.microsoft.com/azure/azure-resource-manager/bicep/overview
 - Deploy Bicep with Azure CLI: https://learn.microsoft.com/azure/azure-resource-manager/bicep/deploy-cli
 
-## 13. Day 62 summary
 
-Terraform is a strong choice for multi-cloud infrastructure and a broad provider ecosystem. Azure Bicep is a natural choice for Azure-focused infrastructure and native ARM integration.
 
 The best tool depends on your organization's cloud strategy, governance, team skills, and operational model.
 
